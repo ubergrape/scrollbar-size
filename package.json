@@ -1,0 +1,16 @@
+{
+  "name": "scrollbar-size",
+  "version": "1.0.0",
+  "description": "Detect scrollbar size",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ubergrape/scrollbar-size.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubergrape/scrollbar-size/issues"
+  },
+  "homepage": "https://github.com/ubergrape/scrollbar-size"
+}
